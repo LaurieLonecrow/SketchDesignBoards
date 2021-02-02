@@ -1,1 +1,2 @@
 # SketchDesignBoards
+This is a collection of design boards that I've created using Sketch.  This is a project intended to help me practice using Sketch as well as to challenge myself to work out more complex sites with multiple icons and page designs.  My main goal is to gain more experience with Sketch as a tool, but also to explore different designs as I build mock versions from exisiting sites.  My first mock-up is of the AirBnB mobile site.
